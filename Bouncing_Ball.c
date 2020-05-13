@@ -1,3 +1,7 @@
+/*
+	Compile with Console.c and ‘-pthread –D_LINUX’ flags 
+	Ex) gcc Bouncing_Ball.c Console.c –pthread –D_LINUX
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
