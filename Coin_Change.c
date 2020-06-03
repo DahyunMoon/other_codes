@@ -1,3 +1,4 @@
+//
 #include <stdio.h>
 
 char coin_names[5][256] = {
