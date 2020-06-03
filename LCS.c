@@ -58,7 +58,7 @@ int main(void) {
   // additional point: see the assignment description
   printf("\nPrint other LCSs.\n");
   printf("<");
-  PRINT_ALL_LCSs(X, i, j);
+  PRINT_ALL_LCSs(X, i, j); //NOT YET
   printf(">\n");
 
   return 0;
@@ -150,7 +150,7 @@ void PRINT_LCS(char* X, int i, int j)
 }
 
 
-void PRINT_ALL_LCSs(char* X, int i, int j){
+void PRINT_ALL_LCSs(char* X, int i, int j){ // must be modifeid
   
   if ((i==0) || (j==0)) return;
   if (b[i][j] == 0)
