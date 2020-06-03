@@ -11,7 +11,7 @@ int* list;
 
 int main(void) {
 	int n;
-	printf("n을 입력하시오: ");
+	printf("n을 입력하세요: ");
 	scanf("%d", &n);
     
 	// table initialization
