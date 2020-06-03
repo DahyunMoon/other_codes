@@ -1,4 +1,5 @@
 /*
+	Warning!
 	Compile with Console.c and ‘-pthread –D_LINUX’ flags 
 	Ex) gcc Bouncing_Ball.c Console.c –pthread –D_LINUX
 */
