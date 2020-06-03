@@ -1,4 +1,5 @@
 /*
+	Must be compiled with BouncingBall.c
 	Console.h: declarations for console-related functions
 */
 
