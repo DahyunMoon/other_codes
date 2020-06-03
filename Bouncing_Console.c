@@ -1,4 +1,5 @@
 /*
+	Must be compiled with Bouncing_Ball.c
 	Console.c: console-related functions
 		This file is for Windows
 */
